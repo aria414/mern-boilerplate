@@ -1,6 +1,6 @@
 ## Boiler Plate Notes
 
-CLONE COMMAND: `npx degit githubusername/gitrepo#branch`
+CLONE COMMAND: `npx degit aria414/mern-boilerplate#master`
 
 Create backend folder. Then create frontend folder with react
 
